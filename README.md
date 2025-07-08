@@ -13,7 +13,7 @@ This interactive Power BI dashboard showcases a detailed sales performance overv
 - Sample Sales Dataset (CSV)
 
 ## 📬 Contact
-- 📧 Email: your.email@example.com  
+- 📧 Email: hetalrparmar2212@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hetal-ramesh-parmar-9b4424209/)  
 - 💻 [GitHub Portfolio](https://github.com/hetalrparmar)
 
